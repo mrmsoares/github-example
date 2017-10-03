@@ -1,9 +1,9 @@
-GitHub Example
+GitHub Exemplo
 ==============
 
-This is a simple example repository that will be used to show how to get started with GitHub.
+Este é um repositório de exemplos simples que será usado para mostrar como começar com o GitHub.
 
-How to Contribute
+Como Contribuir
 =================
 
-Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
+Apenas faça o fork do repositório original em pragmaticlearning / github-exemplo, faça suas alterações e envie o Pull Request.
